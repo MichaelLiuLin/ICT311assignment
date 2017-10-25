@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyEvent</string>
+
+
+    <!-- strings for first_activity_first_fragment-->
+    <string name="log"> Log</string>
+    <string name="setting"> Setting</string>
+    <!-- strings for first_activity_second_fragment-->
+    <string name="place">Event Place</string>
+    <string name="empty">Please press the LOG button to record a new event and SETTING button to set up your identity.</string>
+    <string name="empty2">© 2017 Liu Lin Michael.</string>
+
+    <!-- strings for second_activity_first_fragment-->
+    <string name="title"> TITLE </string>
+    <string name="type"> Enter an event title here.</string>
+    <string name="detail"> DETAIL </string>
+    <string name="type_place"> Enter an event place here.</string>
+    <string name="comments"> Enter your comments here.</string>
+    <string name="duration"> Enter event\'s duration here.</string>
+    <string name="save"> save </string>
+    <string name="cancel"> cancel </string>
+    <string name="delete"> delete </string>
+
+    <!-- strings for toolbar-->
+    <string name="new_crime">New Event</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s crimes</string>
+
+    <!-- strings for spinner-->
+    <string-array name="event_type">
+        <item>Work</item>
+        <item>Study</item>
+        <item>Leisure</item>
+        <item>Sport</item>
+    </string-array>
+
+    <!-- strings for map-->
+    <string name="title_activity_third">Map</string>
+
+
+    <!-- strings for setting-->
+    <string name="settings_title">Settings</string>
+    <string name="settings_name">Name</string>
+    <string name="settings_id">Id</string>
+    <string name="settings_email">Email</string>
+    <string name="settings_gender">Gender</string>
+    <string name="settings_comment">Comment</string>
+
+
+</resources>
