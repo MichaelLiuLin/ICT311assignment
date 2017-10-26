@@ -16,6 +16,7 @@ import com.bignerdranch.android.myevent.R;
 
 /**
  * Created by linliu on 25/10/17.
+ * APK file needs to be regenerated.
  */
 
 public class FourthActivity_FirstFragment extends Fragment {
