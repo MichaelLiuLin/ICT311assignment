@@ -31,7 +31,7 @@
             android:layout_weight="1"/>
 
         <EditText
-            android:hint="ABC"
+
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:id="@+id/settings_name_edit_text"
@@ -52,7 +52,7 @@
             android:layout_weight="1"/>
 
         <EditText
-            android:hint="8848"
+
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:id="@+id/settings_id_edit_text"
@@ -73,7 +73,7 @@
             android:layout_weight="1"/>
 
         <EditText
-            android:hint="35325937@qq.com"
+
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:id="@+id/settings_email_edit_text"
@@ -94,7 +94,7 @@
             android:layout_weight="1"/>
 
         <EditText
-            android:hint="male"
+
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:id="@+id/settings_gender_edit_text"
@@ -115,7 +115,7 @@
             android:layout_weight="1"/>
 
         <EditText
-            android:hint="Data in those fields is dummy values."
+
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:id="@+id/settings_comment_edit_text"

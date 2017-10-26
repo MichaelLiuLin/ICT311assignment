@@ -39,11 +39,11 @@ public class FourthActivity_FirstFragment extends Fragment {
 
         if (mSetting == null) {
             mSetting = new Settings();
-            mSetting.setName("");
-            mSetting.setIdNum("");
-            mSetting.setEmail("");
-            mSetting.setGender("");
-            mSetting.setComment("");
+            mSetting.setName("ABC");
+            mSetting.setIdNum("8848");
+            mSetting.setEmail("820482058@qq.com");
+            mSetting.setGender("male");
+            mSetting.setComment("this is dummy values.");
             SettingGenerater settingLab = SettingGenerater.get(getActivity());
             settingLab.addSetting(mSetting);
         }
@@ -67,7 +67,7 @@ public class FourthActivity_FirstFragment extends Fragment {
         mNameField.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-                //intentionally blank
+
             }
 
             @Override
